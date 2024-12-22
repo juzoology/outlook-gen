@@ -1,0 +1,4 @@
+[script]
+threads = 10 # Threads (int)
+password = "" # Password for the accounts (str)
+api_key = "" # 2captcha key (str)

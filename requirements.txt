@@ -1,0 +1,6 @@
+capsolver
+toml
+pytermx
+pyexecjs
+tls-client
+BeautifulSoup4
